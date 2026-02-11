@@ -36,7 +36,7 @@ _To run benchmarks yourself:_ `go test -bench=. -benchmem`
 ## Installation
 
 ```
-go get [github.com/banditmoscow1337/bark](https://github.com/banditmoscow1337/bark)
+go get github.com/banditmoscow1337/bark
 
 ```
 
@@ -51,7 +51,7 @@ package main
 
 import (
 	"os"
-	"[github.com/banditmoscow1337/bark](https://github.com/banditmoscow1337/bark)"
+	"github.com/banditmoscow1337/bark"
 )
 
 func main() {
@@ -75,7 +75,7 @@ package main
 
 import (
 	"os"
-	"[github.com/banditmoscow1337/bark](https://github.com/banditmoscow1337/bark)"
+	"github.com/banditmoscow1337/bark"
 )
 
 func main() {
